@@ -1,5 +1,5 @@
 # BNN-
-BNN实现方法的相关paper
+BNN实现方法的相关paper,算法及其他相关信息
 
 ## Relevant paper
 
